@@ -8,3 +8,43 @@ body {
 main {
 	padding: 1em;
 }
+h1 {
+	font-size: 100px;
+}
+
+h2 {
+	font-size: 150px;
+	font-family: helvetica;
+	margin: 1em;
+	border: 1em solid yellow;
+
+}
+
+h3 {
+	font-size: 150px;
+	font-family: helvetica;
+	margin: 2.5em;
+	border: 1em solid yellow;
+}
+
+h4 {
+	font-size: 150px;
+	font-family: helvetica;
+	margin: 4em;
+	border: 1em solid yellow;
+	color: lightblue;
+}
+
+h5 {
+	font-size: 150px;
+	font-family: helvetica;
+	margin: 5.5em;
+	border: 1em solid yellow;
+	color: lightblue;
+}
+
+h6 {
+	color: yellow;
+	font-size: 24px;
+	
+}
